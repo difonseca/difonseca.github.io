@@ -8,15 +8,15 @@
 
 body {
     background-color: #FFFFFF;
-	color: #738598;
+	color: #000000;
 	font-family: monospace;
 }
 
 #photo {
-    width: 110px;
-    height: 110px;
+    width: 155px;
+    height: 155px;
     display: block;
-    margin: 3em auto 1.25em;
+    margin: 2em auto 1.25em;
     border-radius: 50%;
 }
 
