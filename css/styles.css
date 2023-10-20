@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #F2F4F6;
+    background-color: #FFFFFF;
 	color: #738598;
 	font-family: monospace;
 }
@@ -37,19 +37,19 @@ h3 {
 	display: block;
 	text-align: center;
 	text-decoration: none;
-    color: #F2F4F6;
-	background-color: #6B48FF;
+    color: #000000;
+	background-color: #FFFFFF;
 	margin-bottom: 1em;
     padding: 1em;
     font-size: 1rem;
-	border: 2px solid #6B48FF;
+	border: 2px solid #000000;
 	transition: all .25s cubic-bezier(.08, .59, .29, .99);
 	font-weight: bold;
 	/*border-radius: 5px;*/
 }
 
 .link:hover {
-	background-color: #F2F4F6;
-    color: #6B48FF;
-    border: 2px solid #6B48FF;
+	background-color: #000000;
+    color: #FFFFFF;
+    border: 2px solid #000000;
 }
